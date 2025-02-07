@@ -1,0 +1,20 @@
+p{
+    color: aqua!important;
+    font-size: 1rem; /* 16px */
+}
+
+.text-success{
+    color:aquamarine!important;
+    font-size: 14px;
+}
+#text-danger{
+    color: red;
+    font-size: 14px;
+}
+.rounded-image {
+    border-radius: 50%;
+}
+.custom-card {
+    width: 350px; /* Ajusta este valor al tamaño deseado */
+    height: auto; /* Ajusta este valor si deseas un alto específico */
+}
